@@ -1,0 +1,15 @@
+{
+  "name": "vanilla-template",
+  "version": "1.0.0",
+  "description": "Just copy & past this folder for init a new challenge ;",
+  "main": "app.js",
+  "scripts": {
+    "dev": "live-server --port=1387"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
